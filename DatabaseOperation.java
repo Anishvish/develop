@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class Database {
+public class DatabaseOperation {
 	static final String url = "jdbc:mysql://localhost:/sample";
 	static final String user = "root";
 	static final String pass = "root";
